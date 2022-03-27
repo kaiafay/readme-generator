@@ -57,7 +57,18 @@ const questions = () => {
     ]);
 };
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
 
-questions();
+// TODO: Create a function to write README file
+function writeToFile(fileName, data) {
+    return fs.writeFile('./README.md', generateMarkdown(data), err => {
+        if (err) throw new Eror(err);
+
+        console.log("README successfully generated!");
+    })
+};
+
+questions().then((responses) => {
+    console.log("Generating README...");
+    writeToFile('README.md', generateMarkdown({...responses}));
+});
+
