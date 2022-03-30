@@ -70,8 +70,6 @@ function writeToFile(data) {
 questions().then(readmeData => {
     console.log("Generating README...");
     return writeToFile(readmeData);
-}).then(response => {
-    console.log(response);
 }).catch(err => {
     console.log(err);
 });
