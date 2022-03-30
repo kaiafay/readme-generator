@@ -1,34 +1,34 @@
-# test
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Professional Portfolio
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
   ## Description
-  test
+  A collection of my work 
 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  https://opensource.org/licenses/MIT
+  https://www.gnu.org/licenses/gpl-3.0
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
   
   ## Installation
-  test 
+  npm install 
 
   ## Usage
-  test
+  Click on the Git Page link
   ## License
-    This project is licensed under the MIT license. 
+    This project is licensed under the GNU GPL v3 license. 
 
   ## Contributing
-  test
+  Contact me.
 
   ## Tests
-  test
+  npm test
 
   ## Questions
   
   If you have any questions, please reach out!
-  Github: [test] (https://github.com/test)
-  Email: [test] (mailto:test)
+  Github: [kaiafay](https://github.com/kaiafay)
+  Email: [kfscheirman18@gmail.com](mailto:kfscheirman18@gmail.com)
 
