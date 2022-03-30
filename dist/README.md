@@ -1,5 +1,5 @@
 # README generator
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
   ## Description
   A node.js application that generates a README file based off user's input.
@@ -7,7 +7,6 @@
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  https://opensource.org/licenses/Apache-2.0
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -18,13 +17,13 @@
   ## Usage
   Use node index.js command to invoke the application and then answer the prompts.
   ## License
-    This project is licensed under the APACHE 2.0 license. 
+    This project is licensed under the BSD 3 license. 
 
   ## Contributing
   Please reach out to me about contributions.
 
   ## Tests
-  npm test 
+  npm test
 
   ## Questions
   If you have any questions, please reach out! <br />
