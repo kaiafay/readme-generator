@@ -1,13 +1,13 @@
-# Professional Portfolio
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# README generator
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
-  A collection of my work 
+  A node.js application that generates a README file based off user's input.
 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  https://www.gnu.org/licenses/gpl-3.0
+  https://opensource.org/licenses/Apache-2.0
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -16,19 +16,18 @@
   npm install 
 
   ## Usage
-  Click on the Git Page link
+  Use node index.js command to invoke the application and then answer the prompts.
   ## License
-    This project is licensed under the GNU GPL v3 license. 
+    This project is licensed under the APACHE 2.0 license. 
 
   ## Contributing
-  Contact me.
+  Please reach out to me about contributions.
 
   ## Tests
-  npm test
+  npm test 
 
   ## Questions
-  
-  If you have any questions, please reach out!
-  Github: [kaiafay](https://github.com/kaiafay)
+  If you have any questions, please reach out! <br />
+  Github: [kaiafay](https://github.com/kaiafay) <br />
   Email: [kfscheirman18@gmail.com](mailto:kfscheirman18@gmail.com)
 
