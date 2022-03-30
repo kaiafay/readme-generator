@@ -1,34 +1,34 @@
-# Password Generator
-  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+# test
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  A javascript app that generates a randomized passsword based off of user's input.
+  test
 
   ## Table of Contents
-  * [Installation] (#installation)
-  * [Usage] (#usage)
-  https://opensource.org/licenses/BSD-3-Clause
-  * [Contributing] (#contributing)
-  * [Tests] (#tests)
-  * [Questions] (#questions)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  https://opensource.org/licenses/MIT
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
   
   ## Installation
-  npm install 
+  test 
 
   ## Usage
-  Answer prompts for a generated password.
+  test
   ## License
-    This project is licensed under the BSD 3 license. 
+    This project is licensed under the MIT license. 
 
   ## Contributing
-  contact me
+  test
 
   ## Tests
-  npm test
+  test
 
   ## Questions
   
   If you have any questions, please reach out!
-  Github: [kaiafay] (https://github.com/kaiafay)
-  Email: [kfscheirman18@gmail.com] (mailto:kfscheirman18@gmail.com)
+  Github: [test] (https://github.com/test)
+  Email: [test] (mailto:test)
 
