@@ -31,8 +31,7 @@ function renderLicenseLink(license) {
 // function that returns the license section of README
 function renderLicenseSection(license) {
   if (license !== 'None') {
-    return `## License
-    This project is licensed under the ${license} license.`;
+    return `This project is licensed under the ${license} license.`;
   } else {
     return '';
   }
@@ -49,6 +48,7 @@ function generateMarkdown(data) {
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
+  * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -58,6 +58,8 @@ function generateMarkdown(data) {
 
   ## Usage
   ${data.usage}
+
+  ## License 
   ${renderLicenseSection(data.license)} 
 
   ## Contributing
