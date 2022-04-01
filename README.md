@@ -16,4 +16,4 @@ Built With: <br />
 * Your README.md file will be located in the `dist/` folder.
 
 ## Demo
-![video that demonstrates usage of the applicaiton]()
+![video that demonstrates usage of the applicaiton](https://drive.google.com/file/d/1Z-YVea-w0C5_xurmKaiDBs5ImLRMU53r/view?usp=sharing)
